@@ -16,6 +16,6 @@ The quality of the reads was assessed using FastQC v0.11.9.
 
 Further steps (filtering and taxonomic profiling) were performed for each selected sample. An example worklfow is provided in "example_sample_pipeline.sh". 
 
-Indicidual read count tables were in the end combined for both mapseq as well as mOTUs.
+Individual read count tables were in the end combined for both mapseq as well as mOTUs.
 
 The resulting taxonomic profiles were combined with their metadata, and all statistical analyses (diversi9ties, differential abundance, machine learning..) were performed in R and are provided in "R_motus_final_OA_ctrl_final_clean.R".
