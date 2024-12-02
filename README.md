@@ -1,6 +1,7 @@
 # Osteoarthritis progression does not influence gut microbiota composition
 
 
+
 We analyzed the gut microbiota of 1395 OA patients from 4 European cohorts, namely the Finrisk cohort, Estonia Biobank, Lifelines and UK twin study. We compared them with 1395 healthy control from a pool of total 17’641 participants. There were a total of 191 OA prevalent cases from a total of 8000 participants in Finrisk cohort, 590 out of 7019 in Lifelines, 557 out of 2509 in Estonia cohort and 57 out of 114 from the UK twin study. 
 OA was defined with the help of ICD10 codes as M15-19, M16 was used for hip OA, M17 for knee OA, M18 for OA of the first carpometacarpal joint and M19 for other and unspecified OA. This was used for the Finrisk cohort, Estonia Biobank and the UK twin study, whereas for the Lifelines a self-assessment from a questionnaire was used. 
 
